@@ -1,1 +1,2 @@
 Olá, teste jose augusto!
+Segunda alteração pelo VS Code!
