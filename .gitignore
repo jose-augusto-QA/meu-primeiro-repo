@@ -1,0 +1,17 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+# Variáveis de ambiente (senhas, chaves)
+*.env
+secrets.json
+# Dependências
+node_modules/
+.venv/
+# Logs
+*.log
+# Configs do editor
+.vscode/
+.idea/
+# Arquivos temporários
+*.tmp
+*.temp
